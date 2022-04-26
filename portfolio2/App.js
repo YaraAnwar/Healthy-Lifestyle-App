@@ -30,7 +30,7 @@ function LoginApp() {
 
   //the function doLogin
   const doLogin = () => {
-      if (password !== "Ch@rge!") {
+      if (password !== "He@lth!") {
           setErrorMessage("Wrong password! Try again.")
       } else {
           SetLoggedIn(true)

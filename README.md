@@ -1,9 +1,9 @@
 <h1> Start a healthy lifestyle today! </h1>
 <p> Github Pages Link: </p>
 
-<p> The healthy lifestyle app is a react native project which includes:</p>
+<h2> This healthy lifestyle app is a react native project which includes:</h2>
 
-<h2>Five screens</h2>
+<h3>Five screens</h3>
 <p><b>Login:</b>  through name and special password "He@lth!"</p> 
 <p><b>Home:</b> displays the following three screens as buttons with numbered instructions</p>
 <p><b>Grocery list:</b> a todo list with already set healthy food items. The user can add more and check/cross them out as they get the products</p>

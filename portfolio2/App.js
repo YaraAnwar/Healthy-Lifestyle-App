@@ -115,7 +115,7 @@ function HomeScreen({ navigation }) {
   return (
     <View>
       <View style={styles.container}>
-      <Text style={{fontSize: '30px', textAlign: 'center'}}>Let's start your healthy lifestyle!!</Text>
+      <Text style={{fontSize: '30px', textAlign: 'center'}}>Let's start your healthy lifestyle!</Text>
       <br></br>
       <Text style={{fontSize: '15px'}}>1: get some healthy food</Text>
       <Button title="Grocery list" onPress={() => navigation.navigate('Groceries')}></Button>

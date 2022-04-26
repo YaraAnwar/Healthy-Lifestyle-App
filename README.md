@@ -1,5 +1,5 @@
 <h1> Start a healthy lifestyle today! </h1>
-<p> Github Pages Link: </p>
+<p> Github Pages Link: https://yaraanwar.github.io/Healthy-Lifestyle-App/</p>
 
 <h2> This healthy lifestyle app is a react native project which includes:</h2>
 

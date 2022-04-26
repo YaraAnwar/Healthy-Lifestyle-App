@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/Healthy-Lifestyle-App/static/js/app.906c6fea.chunk.js",
+    "app.js.map": "/Healthy-Lifestyle-App/static/js/app.906c6fea.chunk.js.map",
+    "runtime~app.js": "/Healthy-Lifestyle-App/static/js/runtime~app.d80b8c8f.js",
+    "runtime~app.js.map": "/Healthy-Lifestyle-App/static/js/runtime~app.d80b8c8f.js.map",
+    "static/js/2.2dd520f7.chunk.js": "/Healthy-Lifestyle-App/static/js/2.2dd520f7.chunk.js",
+    "static/js/2.2dd520f7.chunk.js.map": "/Healthy-Lifestyle-App/static/js/2.2dd520f7.chunk.js.map",
+    "fonts/AntDesign.ttf": "/Healthy-Lifestyle-App/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/Healthy-Lifestyle-App/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/Healthy-Lifestyle-App/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/Healthy-Lifestyle-App/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/Healthy-Lifestyle-App/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/Healthy-Lifestyle-App/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/Healthy-Lifestyle-App/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/Healthy-Lifestyle-App/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/Healthy-Lifestyle-App/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/Healthy-Lifestyle-App/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/Healthy-Lifestyle-App/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/Healthy-Lifestyle-App/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/Healthy-Lifestyle-App/favicon-16.png",
+    "favicon-32.png": "/Healthy-Lifestyle-App/favicon-32.png",
+    "favicon.ico": "/Healthy-Lifestyle-App/favicon.ico",
+    "index.html": "/Healthy-Lifestyle-App/index.html",
+    "manifest.json": "/Healthy-Lifestyle-App/manifest.json",
+    "serve.json": "/Healthy-Lifestyle-App/serve.json",
+    "static/js/2.2dd520f7.chunk.js.LICENSE.txt": "/Healthy-Lifestyle-App/static/js/2.2dd520f7.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/Healthy-Lifestyle-App/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/Healthy-Lifestyle-App/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/Healthy-Lifestyle-App/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/Healthy-Lifestyle-App/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.d80b8c8f.js",
+    "static/js/2.2dd520f7.chunk.js",
+    "static/js/app.906c6fea.chunk.js"
+  ]
+}
